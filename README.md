@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/GENTLEW1ND/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/GENTLEW1ND/DSA/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/GENTLEW1ND/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/GENTLEW1ND/DSA/tree/master/0054-spiral-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GENTLEW1ND/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Matrix
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/GENTLEW1ND/DSA/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/GENTLEW1ND/DSA/tree/master/0049-group-anagrams) |
 ## Tree
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/GENTLEW1ND/DSA/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GENTLEW1ND/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Divide and Conquer
 |  |
@@ -65,4 +68,8 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/GENTLEW1ND/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/GENTLEW1ND/DSA/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
