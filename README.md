@@ -21,6 +21,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/GENTLEW1ND/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/GENTLEW1ND/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/GENTLEW1ND/DSA/tree/master/0015-3sum) |
 ## Sorting
@@ -75,6 +76,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/GENTLEW1ND/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/GENTLEW1ND/DSA/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/GENTLEW1ND/DSA/tree/master/0208-implement-trie-prefix-tree) |
 ## Design
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/GENTLEW1ND/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/GENTLEW1ND/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
